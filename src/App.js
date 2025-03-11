@@ -1,5 +1,5 @@
 import React from 'react';
-import IkigaiApp from './IkigaiApp';
+import IkigaiApp from './IkigaiApp.js';
 
 function App() {
   return (
